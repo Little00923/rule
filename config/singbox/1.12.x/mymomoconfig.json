@@ -74,6 +74,7 @@
       {"rule_set": "geoip-apple", "outbound": "🍏 Apple"},
       {"rule_set": "geoip-telegram", "outbound": "📲 Telegram"},
       {"rule_set": "geoip-netflix", "outbound": "🎥 Netflix"},
+      {"tag": "🎯 自选", "type": "selector", "outbounds": []},
       {"rule_set": "geoip-cn", "outbound": "🎯 全球直连"}
     ],
     "rule_set": [
